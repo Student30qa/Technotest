@@ -1,0 +1,14 @@
+Автоматизированное тестирование | Дополнительное задание по PyTest
+
+mytuple = ("карабины", False, "порошок", 666, 25.25)
+print(mytuple)
+print(type(mytuple))
+("карабины", False, "порошок", 666, 25.25)
+<class 'tuple'>
+
+
+mylist = ["карабины", False, "порошок", 666, 25.25]
+print(mylist)
+print(type(mylist))
+["карабины", False, "порошок", 666, 25.25]
+<class 'list'>
